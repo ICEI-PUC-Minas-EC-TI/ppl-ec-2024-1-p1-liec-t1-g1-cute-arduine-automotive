@@ -1,25 +1,27 @@
-# TÍTULO DO PROJETO
+# CUTE ARDUINE AUTOMOTIVE
 
-`CAMPUS/UNIDADE`
+`PONTÍFICIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS/ CAMPUS LIBERDADE`
 
-`CURSO`
+`ENGENHARIA DA COMPUTAÇÃO`
 
-`SEMESTRE`
+`1º PERÍODO`
 
-`DISCIPLINA`
+`LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Júlia de Mello Teixeira
+* Edurado Utsch Gonçalves
+* David Nunes Ribeiro
+* Cauã Diniz Armani
+* João Vitor Freire
+* Izabela Naves dos Santos
+* Gabriela Fernandes Bicalho
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
