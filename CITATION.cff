@@ -1,0 +1,24 @@
+cff-version: 1.0.1
+message: "Please cite this project using these metadata."
+authors:
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names:
+  - name-suffix: "Professor"
+    given-names: 
+    family-names:
+    affiliation: "PUC Minas"
+title: ""
+version: 1.0.0
+date-released: 2024-01-14
+url: ""
+
