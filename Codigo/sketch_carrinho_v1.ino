@@ -28,15 +28,8 @@ void loop() {
   if (Serial.available() > 0) {
     char n = Serial.read();
     
-    // Para os motores se 0 for recebido
-    if (n == '0') {
-        ENA = 0;
-        ENB = 0;
-        analogWrite(enA, ENA);
-        analogWrite(enB, ENB);
-    }
     // Move para frente
-    else if (n == '3') {
+    if (n == '3') {
         // Lado A
         digitalWrite(in1, LOW);
         digitalWrite(in2, HIGH);
@@ -80,6 +73,14 @@ void loop() {
       ENB = 110;
       analogWrite(enA, ENA);
       analogWrite(enB, ENB);
+    }
+    // Comando inválido ou nenhum comando recebido
+    else {
+        // Parar os motores
+        digitalWrite(in1, LOW);
+        digitalWrite(in2, LOW);
+        digitalWrite(in3, LOW);
+        digitalWrite(in4, LOW);
     }
   }
 }
