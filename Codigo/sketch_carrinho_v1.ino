@@ -29,7 +29,7 @@ void loop() {
     char n = Serial.read();
     
     // Move para frente
-    if (n == '3') {
+    else if (n == '3') {
         // Lado A
         digitalWrite(in1, LOW);
         digitalWrite(in2, HIGH);
