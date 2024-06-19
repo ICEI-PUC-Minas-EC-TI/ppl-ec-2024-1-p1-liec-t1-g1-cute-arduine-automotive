@@ -11,13 +11,13 @@
 
 ## Integrantes
 
-* Júlia de Mello Teixeira
-* Edurado Utsch Gonçalves
+* Cauã Diniz Armani 
 * David Nunes Ribeiro
-* Cauã Diniz Armani
-* João Vitor Freire
+* Edurado Utsch Gonçalves
+* Gabriela Fernandes Bicalho 
 * Izabela Naves dos Santos
-* Gabriela Fernandes Bicalho
+* Júlia de Mello Teixeira
+* João Vitor Freire
 
 ## Orientador
 
