@@ -25,7 +25,8 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo deste grupo é desenvolver um carrinho controlado remotamente, equipado com diversas funcionalidades avançadas. O controle à distância poderá ser realizado tanto via Bluetooth quanto por meio de um controle convencional, oferecendo flexibilidade e conveniência ao usuário.
+O carrinho será projetado para executar movimentos completos, podendo se deslocar para frente e para trás, bem como virar para ambos os lados com precisão. Além dessas capacidades de navegação, o carrinho incluirá uma função integrada de reprodução de músicas, proporcionando uma experiência mais envolvente e divertida. Adicionalmente, será implementado um modo de aceleração mais potente, permitindo que o carrinho atinja maiores velocidades e oferecendo um desempenho aprimorado para os entusiastas de veículos controlados remotamente.
 
 # Código (do arduino ou esp32)
 
