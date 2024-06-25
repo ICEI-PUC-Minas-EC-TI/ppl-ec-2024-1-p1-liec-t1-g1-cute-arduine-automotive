@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto visa desenvolver um carro-tanque controlado remotamente, com um toque nostalgico e inovador. Inicialmente concebido como um tanque, o projeto foi adaptado para um carrinho de quatro rodas devido a problemas técnicos. Incorporando música através de um buzzer e um modo turbo, o veículo também conta com sensores de proximidade e luzes de ré. O aplicativo de controle foi projetado com uma estética inspirada em "Monster Trucks", usando tons de rosa para atrair um público que aprecia tecnologia e memórias da infância. O objetivo é criar um dispositivo atraente e funcional, superando desafios técnicos para garantir uma experiência única e cativante.
 
 ## Problema
 
