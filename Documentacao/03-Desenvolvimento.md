@@ -18,7 +18,8 @@ Quanto ao aplicativo, o layout e os códigos foram ajustados para garantir uma c
 O principal objetivo ao desenvolver o layout foi alinhar-se à temática central do grupo, que incorpora a ideia de um "Monster Truck" com uma abordagem simultaneamente robusta e cativante, evocando reminiscências da infância feminina através de músicas como as da Barbie e da Hello Kitty. Com isso em mente, o design do aplicativo foi concebido em uma paleta de tons variados de rosa.
 
 ### Código
-O processo de desenvolvimento do código passou por diversas tentativas e erros até que conseguimos alcançar o resultado final.
+Inicialmente, um membro do grupo fez um esboço dos códigos dentro das principais ferramentas utilizadas na formação desse projeto. Para o aplicativo de celular, o MIT App Inventor e, para o controle do carrinho, o ambiente de desenvolvimento integrado Arduino.ide.
+Na próxima versão, outros integrantes do trabalho aprimoraram e adicionaram mais ferramentas e funcionalidades a esse código base. O processo de desenvolvimento passou por diversas tentativas e erros até que conseguimos alcançar o resultado final.
 
 ## Desenvolvimento do Hardware
 
