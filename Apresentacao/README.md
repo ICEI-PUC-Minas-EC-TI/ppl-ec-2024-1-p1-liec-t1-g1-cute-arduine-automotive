@@ -36,4 +36,11 @@ Aqui estão as imagens relacionadas ao projeto:
     <img src="Fotos/cute_arduine_automotive_pic3.jpeg" alt="Arduine pic 3" width="300px" height="300px">
     <img src="Fotos/cute_arduine_automotive_pic11.jpeg" alt="Arduine pic 11" width="300px" height="300px">
 
+### Vídeo de demonstração:
+
+<div style="text-align: center;">
+    <video width="640" height="360" controls>
+        <source src="Videos/video_teste_01.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </div>
