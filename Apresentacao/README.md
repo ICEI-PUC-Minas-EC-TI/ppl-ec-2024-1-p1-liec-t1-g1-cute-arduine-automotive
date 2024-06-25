@@ -39,6 +39,6 @@
 
 ### Vídeos do Projeto:
 
-Clique [aqui](https://www.youtube.com/playlist?list=PLuGi-ThfrS2rpABvhvCqpOvSsmF21qQBT){:target="_blank"} para visualizar os vídeos do projeto.
+Clique <a href="https://www.youtube.com/playlist?list=PLuGi-ThfrS2rpABvhvCqpOvSsmF21qQBT" target="_blank">aqui</a> para visualizar os vídeos do projeto.
 
 ---
