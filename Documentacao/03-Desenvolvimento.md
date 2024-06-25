@@ -2,11 +2,15 @@
 # Materiais
 
 Para a construção do carrinho, foram utilizados: 
-Um chassi de madeira, quatro rodas, um Arduino, um sensor, dois LEDs, uma ponte H, fios de conexão, dois motores, pilhas, uma protoboard e um módulo de conexão Bluetooth, além de porcas e parafusos para manter o carrinho estável.
+Um chassi de madeira, quatro rodas, um Arduino, dois sensores, dois LEDs, uma ponte H, fios de conexão, dois motores, pilhas, uma protoboard e um módulo de conexão Bluetooth, além de porcas e parafusos para manter o carrinho estável.
 
 # Desenvolvimento
-
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+O projeto teve início em 22 de abril de 2024. A partir dessa data, começamos a discutir sobre peças e métodos de funcionamento, com base na ideia de um carro-tanque controlado remotamente. Como diferencial, queríamos algo que remetesse à infância e fosse, ao mesmo tempo, inovador. Assim, decidimos incorporar música utilizando um buzzer e adicionar um modo turbo.
+Em 29 de abril, já tínhamos definido o esboço do projeto, as telas de aplicação e uma lista preliminar de componentes. No entanto, devido a problemas com a esteira do tanque, a lista teve que ser alterada, resultando na transformação do projeto em um carrinho de quatro rodas.
+Em 13 de maio, conseguimos desenvolver um aplicativo funcional com um layout e códigos preliminares para testes.
+Em 27 de maio, o projeto do hardware, inicialmente planejado, foi entregue e começamos a montagem. No entanto, com o surgimento de novas necessidades, aprimoramos os componentes utilizados.
+Como resultado final, obtivemos um carrinho controlado remotamente, equipado com sensores frontais e traseiros que permitem ao carrinho parar a uma certa distância de objetos. Implementamos com sucesso a função de tocar música e adicionamos luzes de ré.
+Quanto ao aplicativo, o layout e os códigos foram ajustados para garantir uma comunicação eficiente com o carrinho.
 
 ## Desenvolvimento do Aplicativo
 
@@ -14,8 +18,7 @@ Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das et
 O principal objetivo ao desenvolver o layout foi alinhar-se à temática central do grupo, que incorpora a ideia de um "Monster Truck" com uma abordagem simultaneamente robusta e cativante, evocando reminiscências da infância feminina através de músicas como as da Barbie e da Hello Kitty. Com isso em mente, o design do aplicativo foi concebido em uma paleta de tons variados de rosa.
 
 ### Código
-
-Descreva o desenvolvimento do código do aplicativo.
+O processo de desenvolvimento do código passou por diversas tentativas e erros até que conseguimos alcançar o resultado final.
 
 ## Desenvolvimento do Hardware
 
