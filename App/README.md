@@ -67,3 +67,11 @@ Logo em seguida foram feitos os seguintes testes:
     <img src="Fotos/cute_arduine_automotive_app_layout_pic9.png" alt="App pic 9" width="300px" height="300px">
     <img src="Fotos/cute_arduine_automotive_app_layout_pic10.png" alt="App pic 10" width="300px" height="300px">
 </div>
+
+---
+
+### Arquivos do Aplicativo:
+
+Clique [aqui](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-cute-arduine-automotive/tree/main/App) para visualizar os arquivos dos aplicativos.
+
+---
