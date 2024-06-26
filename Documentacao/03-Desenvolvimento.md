@@ -34,4 +34,4 @@ Descreva como foi o desenvolvimento do código do arduino/ESP.
 
 ## Comunicação entre App e Hardware
 
-Descreva como foi o processo de comunicação entre App e arduino/ESP.
+Dentre as funcionalidades do MIT App Inventor, existe a ferramenta “ClienteBluetooth” que permite a comunicação de dados entre o celular e o microcontrolador por meio de ondas de alta frequência (UHF). Dessa forma, dados sobre o aperto de um dos botões no aplicativo de celular são enviados para o arduino que, por fim, responde aos comandos.
