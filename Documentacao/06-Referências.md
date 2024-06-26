@@ -1,6 +1,6 @@
 # Referências
 
-Arduino Forum. Bateria 9V e Sketch. 2016. Disponível em: https://forum.arduino.cc/t/bateria-9v-e-sketch/446961/2. Acesso em: 21 jun. 2024.
+FÓRUM ARDUINO. Bateria 9V e Sketch. 2016. Disponível em: https://forum.arduino.cc/t/bateria-9v-e-sketch/446961/2. Acesso em: 21 jun. 2024.
 
 SQUIDS. Como usar o controle remoto infravermelho com Arduino. 2021. Disponível em: https://www.squids.com.br/arduino/projetos-arduino/projetos-squids/intermediario/336-i13-como-usar-o-controle-remoto-infravermelho-com-arduino?highlight=WzIwMjFd. Acesso em: 21 jun. 2024.
 
