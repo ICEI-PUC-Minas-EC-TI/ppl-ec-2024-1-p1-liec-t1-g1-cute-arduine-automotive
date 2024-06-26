@@ -27,3 +27,5 @@ As ferramentas utilizadas no projeto foram:
 - APP Inventor
 - Chat GPT
 - Youtube
+- Discord
+- WhatsApp
