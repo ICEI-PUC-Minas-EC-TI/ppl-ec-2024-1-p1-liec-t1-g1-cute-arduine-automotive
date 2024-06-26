@@ -30,7 +30,8 @@ A montagem foi realizada em etapas, de acordo com a necessidade das peças.
 
 ### Desenvolvimento do Código
 
-Descreva como foi o desenvolvimento do código do arduino/ESP.
+A montagem do aplicativo enfrentou diversos desafios, além de erros e acertos. A ideia inicial era criar algo similar a um tanque de guerra controlado remotamente; entretanto, houve um problema com uma das esteiras que transformaria o carrinho em um tanque. Devido à divergência no tamanho das esteiras, tivemos que optar por uma solução alternativa para permitir que o carrinho funcionasse. A conclusão do grupo foi substituir as esteiras por rodas com tração traseira, permitindo que o carrinho se movimentasse normalmente.
+A montagem foi realizada em etapas, de acordo com a necessidade das peças.
 
 ## Comunicação entre App e Hardware
 
