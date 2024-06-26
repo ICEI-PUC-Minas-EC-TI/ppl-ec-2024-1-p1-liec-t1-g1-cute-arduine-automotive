@@ -10,20 +10,16 @@ A organização e gestão da equipe foram realizadas através de um conjunto de 
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
-
-
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+- Scrum Master: David Nunes
+- Equipe de Desenvolvimento do app: Eduardo Utsch, Gabriela Bicalho, Izabela 
+- Equipe de Desenvolvimento do Código: Júlia de Mello, Eduardo Utsch
+- Equipe
 
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+- Arduino IDE
+- APP Inventor
+- Chat GPT
+- Youtube
