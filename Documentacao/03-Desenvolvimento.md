@@ -30,8 +30,7 @@ A montagem foi realizada em etapas, de acordo com a necessidade das peças.
 
 ### Desenvolvimento do Código
 
-A montagem do aplicativo enfrentou diversos desafios, além de erros e acertos. A ideia inicial era criar algo similar a um tanque de guerra controlado remotamente; entretanto, houve um problema com uma das esteiras que transformaria o carrinho em um tanque. Devido à divergência no tamanho das esteiras, tivemos que optar por uma solução alternativa para permitir que o carrinho funcionasse. A conclusão do grupo foi substituir as esteiras por rodas com tração traseira, permitindo que o carrinho se movimentasse normalmente.
-A montagem foi realizada em etapas, de acordo com a necessidade das peças.
+O código foi, sem dúvidas, uma das partes mais desafiadoras do projeto. Já haviam sido criados alguns modelos antes mesmo da construção do carrinho, contudo, descobrimos depois a necessidade de ponte H e outras configurações para o Bluetooth. Nesse sentido, o código foi sendo aprimorado conforme o projeto foi sendo desenvolvido. A princípio, o código contava somente com a lógicas das direções, depois foram adicionadas novas linhas para viabilizar a conexão bluetooth, ativar as funcionalidades dos sensores, do buzzer e, por fim, acender os leds. Em resumo, o código foi uma parte trabalhosa, mas que gerou todos os resultados esperados pelo projeto.
 
 ## Comunicação entre App e Hardware
 
