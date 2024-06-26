@@ -1,3 +1,2 @@
 # Testes do Projeto
-
-Descreva aqui como foram realizados os testes para o funcionamento do projeto. Descreva também os resultados encontrados e as limitações do projeto.
+Foram realizados muitos e muitos testes nesse trabalho. Os principais foram, o código de teste para os motores, bluetooth e controle infra-vermelho. Mas além desses espeficificos, muitos outros foram testados para implementar controle de velocidade pelas portas ENA e ENB da ponte H, como também, para controla-la pelas portas IN1, IN2, IN3 e IN4 de forma analogica. Outros foram necessários para a implementação da função musical e sensores. Vários testes forma feitos, também, para otimização dos códigos desenvolvidos.
